@@ -1,0 +1,79 @@
+body {
+    font-family: Verdana;
+}
+
+.servicio {
+    text-align: center;
+}
+
+.servicio {
+    text-align: center;
+}
+
+.izquierda {
+    float: left;
+}
+
+.derecha {
+    float: right;
+}
+
+.neutro {
+    clear: both;
+}
+
+.servicio h1 {
+    border-bottom: 1px solid orange;
+}
+
+.servicio p {
+    color: gray;
+}
+
+.detalles {
+    border-top: 1px #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    overflow: hidden;
+    padding: 5px 0;
+}
+
+.detalles h3 {
+    margin-top: 0;
+
+}
+
+.proyecto-detalle{
+    width: 27%;
+    margin: 2%;
+    /*float:left;*/
+    /*display: inline-block;*   se usa para mostrar en una sola linea los objetos.  */
+    display: inline-block;
+
+}
+
+.texto-naranja {
+    color: orange
+}
+
+.servicio h1 span {
+    color: orange;
+}
+
+.servicio-detalle {
+    border: 1px solid #ee11ee;
+    width: 20%;
+    height: 250px;
+    border-radius: 8px;
+    float: left;
+    margin: 10px 2%;
+}
+
+.texto izquierda {
+    text-align: left;
+}
+
+.nosotros {
+    margin-top: 30px;
+    overflow: hidden;
+    clear: both;
+}
